@@ -14,5 +14,5 @@ O sensor pir tem seu borne do meio conectado à entrada 8 e os seus outros dois 
 Um bom uso para este projeto é para qualquer situação em que você deseja ser notificado sobre algum contato em algum equipamento importante, que não deveria estar em uso no momento.
 
 # Créditos
-Esse projeto foi realizado por um aluno do Centro Federal de Educação Tecnológica de Minas Gerais, do curso de Eletrotécnica, chamado Thales Fernandes. 
+Esse projeto foi realizado por um aluno do Centro Federal de Educação Tecnológica de Minas Gerais, do curso de Eletrotécnica, chamado Thales Fernandes. Juntamente  com o auxílio do professor Epaminondas Laje, que leciona a matéria de Instrumentação Industrial.
 
