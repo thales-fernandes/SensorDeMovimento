@@ -11,5 +11,5 @@ O projeto foi feito na Versão 1.8.9 do programa Arduíno, no sistema operaciona
 O sensor pir tem seu borne do meio conectado à entrada 8 e os seus outros dois bornes são conectadas nas fases e ground da placa. O buzzer é conectado na entrada 7 da placa, antecedido por um resistor.O led é conectado na entrada 9 da placa, também antecedido por um resistor. Com a instalação feita, basta transferir o programa do arduíno até a placa. 
 
 # Uso
-Um bom uso para este projeto é para qualquer situação em que você deseja ser notificado sobre algum contato em algum equipamento importante, 
+Um bom uso para este projeto é para qualquer situação em que você deseja ser notificado sobre algum contato em algum equipamento importante, que não deveria estar em uso no momento.
 
