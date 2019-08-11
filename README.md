@@ -8,5 +8,5 @@ O projeto se baseia em um sensor de movimento. Quando o sensor pir detecta movim
 O projeto foi feito na Versão 1.8.9 do programa Arduíno, no sistema operacional do windows 10. O compilador foi implementado em java, versão mais recente e os diagramas, assim como ilustrações, foram feitos no fritzing. Na prática, é necessário o arduíno instalado em um sistema operacional qualquer e os equipamentos da placa arduíno uno, um buzzer, um sensor pir, um led e cabos variados.
 
 # Instalação
-O sensor pir tem seu borno do meio conectado a entrada 8 e os seus outros dois bornes são conectadas nas fases e ground da placa. O buzzer é conectado na entrada 7 da placa, antecedido por um resistor.O led é conectado na entrada 9 da placa, também antecedido por um resistor. 
+O sensor pir tem seu borno do meio conectado a entrada 8 e os seus outros dois bornes são conectadas nas fases e ground da placa. O buzzer é conectado na entrada 7 da placa, antecedido por um resistor.O led é conectado na entrada 9 da placa, também antecedido por um resistor. Com a instalação feita, basta transferir o programa do arduíno até a placa. 
 
