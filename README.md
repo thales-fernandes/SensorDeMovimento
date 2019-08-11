@@ -5,3 +5,4 @@ Feito na Versão 1.8.9 do programa Arduíno sobre uma placa Arduíno UNO, que é
 O projeto se baseia em um sensor de movimento. Quando o sensor pir detecta movimento, um led é aceso e um buzzer solta um sinal sonoro. 
 
 # Pré-requisitos
+O projeto foi feito na Versão 1.8.9 do programa Arduíno
